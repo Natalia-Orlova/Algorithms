@@ -2,19 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95088b2e-5ca4-4502-82cf-dc2021ead314" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithm/lesson1/task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithm/lesson1/task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithm/lesson1/task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithm/lesson1/task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithm/lesson2/lecture2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithm/lesson2/seminar2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithm/lesson3/lecture3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithm/lesson3/seminar3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
