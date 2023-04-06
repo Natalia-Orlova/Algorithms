@@ -83,7 +83,7 @@ public class lecture3 {
         }
     }
 
-    // разворот односвязного списка с помощью рекурсии
+    // разворот односвязного списка, публичная функция
     public void revertSingly() {
         if (head != null && head.next != null) { // разворот запускаем только если в списке есть хотя бы 2 ноды
             Node temp = head;
@@ -93,7 +93,7 @@ public class lecture3 {
         }
     }
 
-    // разворот двусвязного списка
+    // разворот односвязного списка рекурсивно
     private void revert(Node currentNode, Node previousNode) {
         if (currentNode.next == null) {
             head = currentNode; // последняя нода становится началом
@@ -133,8 +133,6 @@ public class lecture3 {
         }
         return result;
     }
-
-
 
     public class Node {
         int value; //значение ноды
