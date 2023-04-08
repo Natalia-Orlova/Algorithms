@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95088b2e-5ca4-4502-82cf-dc2021ead314" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Algorithm/lesson4/RedBlackTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Algorithm/lesson4/lecture4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithm/lesson4/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algorithm/lesson4/seminar4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,14 +30,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/79276/IdeaProjects/lesson1"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/79276/IdeaProjects/lesson1&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.RedBlackTree">
     <configuration name="RedBlackTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Algorithm.lesson4.RedBlackTree" />
